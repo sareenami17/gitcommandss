@@ -2,3 +2,5 @@ git init==>for initializing git repository
 git status==>for status
 git add -A
 git commit -m "msg"
+git remote -v
+git remote add blog copy path
